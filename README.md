@@ -4,6 +4,6 @@ A list of common command-line tasks
 ## CSS
 #### Convert Stylus to SCSS
     cat style.styl | stylus | sass-convert --to scss
-Prerequisites:
+Dependencies:
 - `npm install -g stylus`
 - `gem install sass`
